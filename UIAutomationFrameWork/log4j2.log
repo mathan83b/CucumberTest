@@ -1,0 +1,576 @@
+[INFO ] 2024-03-28 18:01:26.580 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-28 18:01:26.587 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-28 18:01:26.589 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-28 18:01:26.589 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-28 18:01:28.992 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-28 18:01:29.006 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-28 18:01:29.006 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-28 18:01:29.007 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-28 18:01:29.008 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-28 18:01:30.218 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-28 21:24:38.388 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-28 21:24:38.393 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-28 21:24:38.394 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-28 21:24:38.394 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-28 21:24:38.395 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-28 21:24:41.161 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-28 21:24:41.179 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-28 21:24:41.179 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-28 21:24:41.180 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-28 21:24:41.180 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-28 21:24:41.181 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-28 21:24:42.333 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-29 16:32:25.315 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-29 16:32:25.319 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-29 16:32:25.319 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-29 16:32:25.321 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-29 16:32:25.321 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-29 16:32:27.643 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-29 16:32:27.709 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-29 16:32:27.710 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-29 16:32:27.710 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-29 16:32:27.710 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-29 16:32:27.710 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-29 16:32:28.751 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-29 16:48:57.099 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-29 16:48:57.102 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-29 16:48:57.103 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-29 16:48:57.104 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-29 16:48:57.104 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-29 16:48:58.709 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-29 16:48:58.767 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-29 16:48:58.767 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-29 16:48:58.767 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-29 16:48:58.767 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-29 16:48:58.768 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-29 16:48:59.739 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-29 16:53:14.507 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-29 16:53:14.510 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-29 16:53:14.512 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-29 16:53:14.513 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-29 16:53:14.513 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-29 16:53:16.049 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-29 16:53:19.600 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-29 16:53:19.600 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-29 16:53:19.601 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-29 16:53:19.601 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-29 16:53:19.601 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-29 16:53:20.623 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-29 16:59:01.282 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-29 16:59:01.286 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-29 16:59:01.288 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-29 16:59:01.288 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-29 16:59:01.288 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-29 16:59:02.918 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-29 17:03:43.507 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-29 17:03:43.510 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-29 17:03:43.512 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-29 17:03:43.512 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-29 17:03:43.512 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-29 17:03:45.094 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-29 18:01:13.887 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-29 18:01:13.890 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-29 18:01:13.891 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-29 18:01:13.891 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-29 18:01:13.893 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-29 18:01:15.756 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-29 18:02:40.201 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-29 18:02:40.204 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-29 18:02:40.205 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-29 18:02:40.206 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-29 18:02:40.206 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-29 18:02:41.939 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-29 18:09:57.823 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-29 18:09:59.375 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-29 18:10:02.425 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-29 18:10:03.875 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-29 18:10:03.881 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-29 18:10:15.563 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-29 18:26:37.342 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-29 18:26:37.347 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-29 18:26:37.349 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-29 18:26:37.349 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-29 18:26:37.349 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-29 18:26:39.638 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-29 18:53:42.599 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-29 18:53:42.605 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-29 18:53:42.606 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-29 18:53:42.607 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-29 18:53:42.607 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-29 18:53:44.757 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-29 19:11:13.621 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-29 19:11:13.626 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-29 19:11:13.628 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-29 19:11:13.628 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-29 19:11:13.628 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-29 19:11:15.902 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-30 13:01:43.755 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-30 13:01:43.761 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-30 13:01:43.762 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-30 13:01:43.764 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-30 13:01:43.764 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-30 13:01:46.179 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-30 13:04:29.786 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-30 13:04:29.792 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-30 13:04:29.793 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-30 13:04:29.794 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-30 13:04:29.794 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-30 13:04:31.852 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-30 13:05:56.099 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-30 13:05:56.105 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-30 13:05:56.107 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-30 13:05:56.107 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-30 13:05:56.108 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-30 13:05:58.135 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-30 13:11:15.045 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-30 13:11:15.051 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-30 13:11:15.052 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-30 13:11:15.053 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-30 13:11:15.053 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-30 13:11:17.145 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-30 14:18:50.210 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-30 14:18:50.214 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-30 14:18:50.215 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-30 14:18:50.216 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-30 14:18:50.216 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-30 14:18:52.546 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-30 14:27:33.833 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-30 14:27:33.837 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-30 14:27:33.840 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-30 14:27:33.840 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-30 14:27:33.840 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-30 14:27:35.877 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-30 14:28:40.564 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-30 14:28:40.568 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-30 14:28:40.569 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-30 14:28:40.570 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-30 14:28:40.570 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-30 14:28:42.556 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-30 14:32:22.160 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-30 14:32:22.165 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-30 14:32:22.168 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-30 14:32:22.168 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-30 14:32:22.168 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-30 14:32:24.205 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-30 14:49:29.424 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-30 14:49:29.429 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-30 14:49:29.431 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-30 14:49:29.431 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-30 14:49:29.432 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-30 14:49:31.485 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-30 14:56:30.986 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-30 14:56:30.992 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-30 14:56:30.993 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-30 14:56:30.993 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-30 14:56:30.993 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-30 14:56:33.049 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-30 15:30:35.347 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-30 15:30:35.352 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-30 15:30:35.353 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-30 15:30:35.353 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-30 15:30:35.354 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-30 15:30:37.742 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-30 15:32:46.982 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-30 15:32:46.987 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-30 15:32:46.988 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-30 15:32:46.989 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-30 15:32:46.989 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-30 15:32:49.164 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-30 19:28:58.659 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-30 19:28:58.666 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-30 19:28:58.667 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-30 19:28:58.668 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-30 19:28:58.668 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-30 19:29:01.231 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-30 19:31:56.804 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-30 19:31:56.808 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-30 19:31:56.809 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-30 19:31:56.810 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-30 19:31:56.810 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-30 19:31:58.924 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-30 19:34:03.590 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-30 19:34:03.594 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-30 19:34:03.596 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-30 19:34:03.596 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-30 19:34:03.597 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-30 19:34:05.714 [main] Common_Step_Def - chromelaunched
+[ERROR] 2024-03-30 19:34:17.771 [main] Common_Step_Def - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div[1]/div[2]/div[2]/div/div[1]/div[2]/form/div[1]/div/div[2]/div/div[2]/div/div/div[2]/i"}
+  (Session info: chrome=123.0.6312.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7d79093aaf9cf88335d8e37736087f77, findElement {using=xpath, value=//*[@id="app"]/div[1]/div[2]/div[2]/div/div[1]/div[2]/form/div[1]/div/div[2]/div/div[2]/div/div/div[2]/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.86, chrome: {chromedriverVersion: 123.0.6312.86 (9b72c47a0536..., userDataDir: C:\Users\Mathan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49236}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49236/devtoo..., se:cdpVersion: 123.0.6312.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7d79093aaf9cf88335d8e37736087f77
+[INFO ] 2024-03-30 22:24:28.877 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-30 22:24:28.882 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-30 22:24:28.884 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-30 22:24:28.884 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-30 22:24:28.885 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-30 22:24:31.854 [main] Common_Step_Def - chromelaunched
+[ERROR] 2024-03-30 22:24:39.344 [main] Common_Step_Def - org.openqa.selenium.JavascriptException: javascript error: missing ) after argument list
+  (Session info: chrome=123.0.6312.86)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9b087f51e35233d87778563f344f7400, executeScript {script=arguments[0].setAttribute('style' 'border: 3px solid red'), args=[{element-6066-11e4-a52e-4f735466cecf=f.872D5EADA75FD33FE2FC13889EBF29C8.d.DCD05EF09237EE9B598ACCB149D6B61D.e.2}]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.86, chrome: {chromedriverVersion: 123.0.6312.86 (9b72c47a0536..., userDataDir: C:\Users\Mathan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50670}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50670/devtoo..., se:cdpVersion: 123.0.6312.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9b087f51e35233d87778563f344f7400
+[ERROR] 2024-03-30 22:24:39.549 [main] Common_Step_Def - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Directoy"}
+  (Session info: chrome=123.0.6312.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9b087f51e35233d87778563f344f7400, findElement {using=link text, value=Directoy}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.86, chrome: {chromedriverVersion: 123.0.6312.86 (9b72c47a0536..., userDataDir: C:\Users\Mathan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50670}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50670/devtoo..., se:cdpVersion: 123.0.6312.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9b087f51e35233d87778563f344f7400
+[ERROR] 2024-03-30 22:24:39.745 [main] Common_Step_Def - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div[1]/div[2]/div[2]/div/div[1]/div[2]/form/div[1]/div/div[2]/div/div[2]/div/div/div[2]/i"}
+  (Session info: chrome=123.0.6312.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9b087f51e35233d87778563f344f7400, findElement {using=xpath, value=//*[@id="app"]/div[1]/div[2]/div[2]/div/div[1]/div[2]/form/div[1]/div/div[2]/div/div[2]/div/div/div[2]/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.86, chrome: {chromedriverVersion: 123.0.6312.86 (9b72c47a0536..., userDataDir: C:\Users\Mathan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50670}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50670/devtoo..., se:cdpVersion: 123.0.6312.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9b087f51e35233d87778563f344f7400
+[INFO ] 2024-03-30 22:26:28.369 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-30 22:26:28.374 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-30 22:26:28.376 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-30 22:26:28.376 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-30 22:26:28.376 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-30 22:26:30.565 [main] Common_Step_Def - chromelaunched
+[ERROR] 2024-03-30 22:26:37.686 [main] Common_Step_Def - org.openqa.selenium.JavascriptException: javascript error: missing ) after argument list
+  (Session info: chrome=123.0.6312.86)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ac3f269c5ae68ff609c2725cc6291ed6, executeScript {script=arguments[0].setAttribute('style' 'border: 3px solid red');, args=[{element-6066-11e4-a52e-4f735466cecf=f.623D743491E713D3F25793840FFC95F6.d.FD1864A9AE32635430A1411F4DB84B84.e.2}]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.86, chrome: {chromedriverVersion: 123.0.6312.86 (9b72c47a0536..., userDataDir: C:\Users\Mathan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50703}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50703/devtoo..., se:cdpVersion: 123.0.6312.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ac3f269c5ae68ff609c2725cc6291ed6
+[ERROR] 2024-03-30 22:26:37.868 [main] Common_Step_Def - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Directoy"}
+  (Session info: chrome=123.0.6312.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ac3f269c5ae68ff609c2725cc6291ed6, findElement {using=link text, value=Directoy}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.86, chrome: {chromedriverVersion: 123.0.6312.86 (9b72c47a0536..., userDataDir: C:\Users\Mathan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50703}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50703/devtoo..., se:cdpVersion: 123.0.6312.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ac3f269c5ae68ff609c2725cc6291ed6
+[ERROR] 2024-03-30 22:26:38.036 [main] Common_Step_Def - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div[1]/div[2]/div[2]/div/div[1]/div[2]/form/div[1]/div/div[2]/div/div[2]/div/div/div[2]/i"}
+  (Session info: chrome=123.0.6312.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ac3f269c5ae68ff609c2725cc6291ed6, findElement {using=xpath, value=//*[@id="app"]/div[1]/div[2]/div[2]/div/div[1]/div[2]/form/div[1]/div/div[2]/div/div[2]/div/div/div[2]/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.86, chrome: {chromedriverVersion: 123.0.6312.86 (9b72c47a0536..., userDataDir: C:\Users\Mathan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50703}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50703/devtoo..., se:cdpVersion: 123.0.6312.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ac3f269c5ae68ff609c2725cc6291ed6
+[INFO ] 2024-03-30 22:33:14.459 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-30 22:33:14.464 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-30 22:33:14.465 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-30 22:33:14.465 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-30 22:33:14.465 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-30 22:33:16.571 [main] Common_Step_Def - chromelaunched
+[ERROR] 2024-03-30 22:33:29.645 [main] Common_Step_Def - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Directoy"}
+  (Session info: chrome=123.0.6312.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [363fca9a18cb106034d576625c0f0ad2, findElement {using=link text, value=Directoy}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.86, chrome: {chromedriverVersion: 123.0.6312.86 (9b72c47a0536..., userDataDir: C:\Users\Mathan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50784}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50784/devtoo..., se:cdpVersion: 123.0.6312.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 363fca9a18cb106034d576625c0f0ad2
+[ERROR] 2024-03-30 22:33:29.897 [main] Common_Step_Def - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div[1]/div[2]/div[2]/div/div[1]/div[2]/form/div[1]/div/div[2]/div/div[2]/div/div/div[2]/i"}
+  (Session info: chrome=123.0.6312.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [363fca9a18cb106034d576625c0f0ad2, findElement {using=xpath, value=//*[@id="app"]/div[1]/div[2]/div[2]/div/div[1]/div[2]/form/div[1]/div/div[2]/div/div[2]/div/div/div[2]/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.86, chrome: {chromedriverVersion: 123.0.6312.86 (9b72c47a0536..., userDataDir: C:\Users\Mathan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50784}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50784/devtoo..., se:cdpVersion: 123.0.6312.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 363fca9a18cb106034d576625c0f0ad2
+[INFO ] 2024-03-31 00:25:28.886 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-31 00:25:28.890 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-31 00:25:28.891 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-31 00:25:28.892 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-31 00:25:28.892 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-31 00:25:30.795 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-31 00:27:28.017 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-31 00:27:28.021 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-31 00:27:28.022 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-31 00:27:28.022 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-31 00:27:28.022 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-31 00:27:29.648 [main] Common_Step_Def - chromelaunched
+[ERROR] 2024-03-31 00:27:42.853 [main] Common_Step_Def - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Directoy"}
+  (Session info: chrome=123.0.6312.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [68ae3443136d8d404f8f8bf7422c515f, findElement {using=link text, value=Directoy}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.86, chrome: {chromedriverVersion: 123.0.6312.86 (9b72c47a0536..., userDataDir: C:\Users\Mathan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51911}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51911/devtoo..., se:cdpVersion: 123.0.6312.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 68ae3443136d8d404f8f8bf7422c515f
+[INFO ] 2024-03-31 00:28:45.990 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-31 00:28:45.994 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-31 00:28:45.996 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-31 00:28:45.996 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-31 00:28:45.996 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-31 00:28:47.635 [main] Common_Step_Def - chromelaunched
+[ERROR] 2024-03-31 00:29:00.369 [main] Common_Step_Def - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Directoy"}
+  (Session info: chrome=123.0.6312.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [503f74cb519e497ad0f869154c01c952, findElement {using=link text, value=Directoy}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.86, chrome: {chromedriverVersion: 123.0.6312.86 (9b72c47a0536..., userDataDir: C:\Users\Mathan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51933}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51933/devtoo..., se:cdpVersion: 123.0.6312.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 503f74cb519e497ad0f869154c01c952
+[INFO ] 2024-03-31 13:18:50.826 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-31 13:18:50.832 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-31 13:18:50.833 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-31 13:18:50.833 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-31 13:18:50.834 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-31 13:18:53.771 [main] Common_Step_Def - chromelaunched
+[ERROR] 2024-03-31 13:18:53.801 [main] Common_Step_Def - java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "stepDefinitions.Common_Step_Def.driver" is null
+[INFO ] 2024-03-31 13:20:50.053 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-31 13:20:50.057 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-31 13:20:50.059 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-31 13:20:50.059 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-31 13:20:50.059 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-31 13:20:52.288 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-31 13:21:02.605 [main] Common_Step_Def - User is logged on Successfully
+[INFO ] 2024-03-31 21:55:10.056 [main] Common_Step_Def - Execution started
+[INFO ] 2024-03-31 21:55:10.060 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-03-31 21:55:10.061 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-03-31 21:55:10.061 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-03-31 21:55:10.061 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-03-31 21:55:12.911 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-03-31 21:55:27.264 [main] Common_Step_Def - User is logged on Successfully
+[INFO ] 2024-04-01 08:53:38.693 [main] Common_Step_Def - Execution started
+[INFO ] 2024-04-01 08:53:38.704 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-04-01 08:53:38.706 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-04-01 08:53:38.706 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-04-01 08:53:38.706 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-04-01 08:53:41.592 [main] Common_Step_Def - chromelaunched
+[ERROR] 2024-04-01 08:53:52.308 [main] Common_Step_Def - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='username']"}
+  (Session info: chrome=123.0.6312.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9036f965b41859f00f3b93c1d77fb3e1, findElement {using=name, value=username}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.86, chrome: {chromedriverVersion: 123.0.6312.86 (9b72c47a0536..., userDataDir: C:\Users\Mathan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62880}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62880/devtoo..., se:cdpVersion: 123.0.6312.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9036f965b41859f00f3b93c1d77fb3e1
+[INFO ] 2024-04-01 08:55:51.777 [main] Common_Step_Def - Execution started
+[INFO ] 2024-04-01 08:55:51.782 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-04-01 08:55:51.784 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-04-01 08:55:51.784 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-04-01 08:55:51.784 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-04-01 08:55:53.905 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-04-01 08:56:04.809 [main] Common_Step_Def - User is logged on Successfully
+[ERROR] 2024-04-01 08:56:04.863 [main] Common_Step_Def - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Directoy"}
+  (Session info: chrome=123.0.6312.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [48f338f9bf5241dfd0cc2fe6ef6fff1d, findElement {using=link text, value=Directoy}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.86, chrome: {chromedriverVersion: 123.0.6312.86 (9b72c47a0536..., userDataDir: C:\Users\Mathan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62912}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62912/devtoo..., se:cdpVersion: 123.0.6312.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 48f338f9bf5241dfd0cc2fe6ef6fff1d
+[INFO ] 2024-04-01 09:08:52.687 [main] Common_Step_Def - Execution started
+[INFO ] 2024-04-01 09:08:52.695 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-04-01 09:08:52.705 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-04-01 09:08:52.705 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-04-01 09:08:52.705 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-04-01 09:08:54.959 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-04-01 09:09:06.646 [main] Common_Step_Def - User is logged on Successfully
+[ERROR] 2024-04-01 09:09:06.711 [main] Common_Step_Def - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Directoy"}
+  (Session info: chrome=123.0.6312.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [13768d9eda6877986503f90a20988af0, findElement {using=link text, value=Directoy}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.86, chrome: {chromedriverVersion: 123.0.6312.86 (9b72c47a0536..., userDataDir: C:\Users\Mathan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62993}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62993/devtoo..., se:cdpVersion: 123.0.6312.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 13768d9eda6877986503f90a20988af0
+[INFO ] 2024-04-01 09:52:36.499 [main] Common_Step_Def - Execution started
+[INFO ] 2024-04-01 09:52:36.511 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-04-01 09:52:36.512 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-04-01 09:52:36.513 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-04-01 09:52:36.513 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-04-01 09:52:38.706 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-04-01 09:52:51.100 [main] Common_Step_Def - User is logged on Successfully
+[ERROR] 2024-04-01 09:52:51.159 [main] Common_Step_Def - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Directoy"}
+  (Session info: chrome=123.0.6312.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [00b3f1a8765fe25d10eb263ef430017e, findElement {using=link text, value=Directoy}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.86, chrome: {chromedriverVersion: 123.0.6312.86 (9b72c47a0536..., userDataDir: C:\Users\Mathan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63103}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63103/devtoo..., se:cdpVersion: 123.0.6312.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 00b3f1a8765fe25d10eb263ef430017e
+[INFO ] 2024-04-01 10:13:54.289 [main] Common_Step_Def - Execution started
+[INFO ] 2024-04-01 10:13:54.294 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-04-01 10:13:54.295 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-04-01 10:13:54.295 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-04-01 10:13:54.296 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-04-01 10:13:56.940 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-04-01 10:14:12.271 [main] Common_Step_Def - User is logged on Successfully
+[ERROR] 2024-04-01 10:14:12.334 [main] Common_Step_Def - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Directoy"}
+  (Session info: chrome=123.0.6312.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [39cfc9f38bc9db2c6cacdc91f3807951, findElement {using=link text, value=Directoy}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.86, chrome: {chromedriverVersion: 123.0.6312.86 (9b72c47a0536..., userDataDir: C:\Users\Mathan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63276}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63276/devtoo..., se:cdpVersion: 123.0.6312.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 39cfc9f38bc9db2c6cacdc91f3807951
+[INFO ] 2024-04-01 10:17:21.634 [main] Common_Step_Def - Execution started
+[INFO ] 2024-04-01 10:17:21.637 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-04-01 10:17:21.638 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-04-01 10:17:21.639 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-04-01 10:17:21.639 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-04-01 10:17:23.688 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-04-01 10:17:36.372 [main] Common_Step_Def - User is logged on Successfully
+[ERROR] 2024-04-01 10:17:36.430 [main] Common_Step_Def - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Directoy"}
+  (Session info: chrome=123.0.6312.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4917876d6f223e51819b1b8ff02c7b6d, findElement {using=link text, value=Directoy}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.86, chrome: {chromedriverVersion: 123.0.6312.86 (9b72c47a0536..., userDataDir: C:\Users\Mathan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63310}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63310/devtoo..., se:cdpVersion: 123.0.6312.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4917876d6f223e51819b1b8ff02c7b6d
+[INFO ] 2024-04-01 15:43:12.044 [main] Common_Step_Def - Execution started
+[INFO ] 2024-04-01 15:43:12.054 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-04-01 15:43:12.055 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-04-01 15:43:12.056 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-04-01 15:43:12.056 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-04-01 15:43:14.925 [main] Common_Step_Def - chromelaunched
+[ERROR] 2024-04-01 15:43:27.711 [main] Common_Step_Def - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='username']"}
+  (Session info: chrome=123.0.6312.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1c158e83126318e28053e87daf3292c3, findElement {using=name, value=username}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.86, chrome: {chromedriverVersion: 123.0.6312.86 (9b72c47a0536..., userDataDir: C:\Users\Mathan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64166}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64166/devtoo..., se:cdpVersion: 123.0.6312.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1c158e83126318e28053e87daf3292c3
+[INFO ] 2024-04-01 15:54:31.952 [main] Common_Step_Def - Execution started
+[INFO ] 2024-04-01 15:54:31.956 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-04-01 15:54:31.958 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-04-01 15:54:31.958 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-04-01 15:54:31.959 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-04-01 15:54:34.082 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-04-01 15:54:48.031 [main] Common_Step_Def - User is logged on Successfully
+[ERROR] 2024-04-01 15:54:48.081 [main] Common_Step_Def - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Directoy"}
+  (Session info: chrome=123.0.6312.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [85d4dc7cbec605b2000b58cc06f413ac, findElement {using=link text, value=Directoy}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.86, chrome: {chromedriverVersion: 123.0.6312.86 (9b72c47a0536..., userDataDir: C:\Users\Mathan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64271}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64271/devtoo..., se:cdpVersion: 123.0.6312.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 85d4dc7cbec605b2000b58cc06f413ac
+[INFO ] 2024-04-01 16:00:32.224 [main] Common_Step_Def - Execution started
+[INFO ] 2024-04-01 16:00:32.228 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-04-01 16:00:32.231 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-04-01 16:00:32.231 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-04-01 16:00:32.232 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-04-01 16:00:34.410 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-04-01 16:00:47.706 [main] Common_Step_Def - User is logged on Successfully
+[ERROR] 2024-04-01 16:00:47.768 [main] Common_Step_Def - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Directoy"}
+  (Session info: chrome=123.0.6312.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8927a36c02e9052f4548ade304e65530, findElement {using=link text, value=Directoy}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.86, chrome: {chromedriverVersion: 123.0.6312.86 (9b72c47a0536..., userDataDir: C:\Users\Mathan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64341}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64341/devtoo..., se:cdpVersion: 123.0.6312.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8927a36c02e9052f4548ade304e65530
+[INFO ] 2024-04-04 13:07:17.023 [main] Common_Step_Def - Execution started
+[INFO ] 2024-04-04 13:07:17.029 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-04-04 13:07:17.031 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-04-04 13:07:17.032 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-04-04 13:07:17.032 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-04-04 13:07:20.733 [main] Common_Step_Def - chromelaunched
+[ERROR] 2024-04-04 13:07:28.203 [main] Common_Step_Def - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=123.0.6312.88)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8b3ce5b58f9f1f520694e5a5e7f0a724, findElement {using=name, value=username}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.88, chrome: {chromedriverVersion: 123.0.6312.86 (9b72c47a0536..., userDataDir: C:\Users\Mathan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57641}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57641/devtoo..., se:cdpVersion: 123.0.6312.88, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8b3ce5b58f9f1f520694e5a5e7f0a724
+[ERROR] 2024-04-04 13:07:28.250 [main] Common_Step_Def - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=123.0.6312.88)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8b3ce5b58f9f1f520694e5a5e7f0a724, findElement {using=xpath, value=//*[@id="app"]/div[1]/div[1]/header/div[1]/div[1]/span/h6}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.88, chrome: {chromedriverVersion: 123.0.6312.86 (9b72c47a0536..., userDataDir: C:\Users\Mathan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57641}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57641/devtoo..., se:cdpVersion: 123.0.6312.88, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8b3ce5b58f9f1f520694e5a5e7f0a724
+[INFO ] 2024-04-04 13:50:56.217 [main] Common_Step_Def - Execution started
+[INFO ] 2024-04-04 13:50:56.222 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-04-04 13:50:56.223 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-04-04 13:50:56.223 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-04-04 13:50:56.224 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-04-04 13:50:58.572 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-04-04 13:51:21.092 [main] Common_Step_Def - User is logged on Successfully
+[ERROR] 2024-04-04 13:51:21.153 [main] Common_Step_Def - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Directoy"}
+  (Session info: chrome=123.0.6312.88)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [613df4fccef5f46b4d6bfa94678dce6f, findElement {using=link text, value=Directoy}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.88, chrome: {chromedriverVersion: 123.0.6312.86 (9b72c47a0536..., userDataDir: C:\Users\Mathan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54663}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54663/devtoo..., se:cdpVersion: 123.0.6312.88, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 613df4fccef5f46b4d6bfa94678dce6f
+[INFO ] 2024-04-04 13:58:25.201 [main] Common_Step_Def - Execution started
+[INFO ] 2024-04-04 13:58:25.207 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-04-04 13:58:25.208 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-04-04 13:58:25.208 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-04-04 13:58:25.208 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-04-04 13:58:27.545 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-04-04 13:58:41.005 [main] Common_Step_Def - User is logged on Successfully
+[ERROR] 2024-04-04 13:58:54.095 [main] Common_Step_Def - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div[1]/div[2]/div[2]/div/div[2]/div/div[2]/div/div/div/p[1]"}
+  (Session info: chrome=123.0.6312.88)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [563bdb5b59bf2b741e6a01be5cfe6a91, findElement {using=xpath, value=//*[@id="app"]/div[1]/div[2]/div[2]/div/div[2]/div/div[2]/div/div/div/p[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.88, chrome: {chromedriverVersion: 123.0.6312.86 (9b72c47a0536..., userDataDir: C:\Users\Mathan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55280}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55280/devtoo..., se:cdpVersion: 123.0.6312.88, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 563bdb5b59bf2b741e6a01be5cfe6a91
+[INFO ] 2024-04-04 16:19:58.402 [main] Common_Step_Def - Execution started
+[INFO ] 2024-04-04 16:19:58.407 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-04-04 16:19:58.409 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-04-04 16:19:58.409 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-04-04 16:19:58.409 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-04-04 16:20:00.808 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-04-04 16:20:10.728 [main] Common_Step_Def - User is logged on Successfully
+[INFO ] 2024-04-04 16:24:30.930 [main] Common_Step_Def - Execution started
+[INFO ] 2024-04-04 16:24:30.936 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-04-04 16:24:30.937 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-04-04 16:24:30.938 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-04-04 16:24:30.938 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-04-04 16:24:33.034 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-04-04 16:24:47.223 [main] Common_Step_Def - User is logged on Successfully
+[INFO ] 2024-04-04 16:28:18.605 [main] Common_Step_Def - Execution started
+[INFO ] 2024-04-04 16:28:18.610 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-04-04 16:28:18.611 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-04-04 16:28:18.612 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-04-04 16:28:18.612 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-04-04 16:28:20.796 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-04-04 16:28:30.430 [main] Common_Step_Def - User is logged on Successfully
+[INFO ] 2024-04-04 16:32:14.351 [main] Common_Step_Def - Execution started
+[INFO ] 2024-04-04 16:32:14.356 [main] Common_Step_Def - Loading variables from the Properties file
+[INFO ] 2024-04-04 16:32:14.357 [main] Common_Step_Def - Calling driver Manager
+[INFO ] 2024-04-04 16:32:14.357 [main] Common_Step_Def - Launching browser
+[INFO ] 2024-04-04 16:32:14.357 [main] Common_Step_Def - Launchingchrome
+[INFO ] 2024-04-04 16:32:16.595 [main] Common_Step_Def - chromelaunched
+[INFO ] 2024-04-04 16:32:28.203 [main] Common_Step_Def - User is logged on Successfully
