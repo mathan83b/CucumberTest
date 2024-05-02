@@ -15,5 +15,5 @@ Feature: Timesheet
 
     Examples: 
       |message|
-      |No Pending timesheets|
+      |No Pending timesheet|
       

@@ -77,6 +77,7 @@ public class Common_Step_Def extends Base {
 		TakesScreenshot ts=(TakesScreenshot) driver;
 		byte[] screenshot=ts.getScreenshotAs(OutputType.BYTES);
 		scenario.attach(screenshot, "image/png", "error_screen");
+		
 		}
 	}
 		
